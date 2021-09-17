@@ -1,5 +1,5 @@
-### Kim Sang Woo - Android Developer
-<hr />
+## Kim Sang Woo - Android Developer
+
 <h3>Tech Stack</h3>
 
 <p>
