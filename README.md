@@ -6,7 +6,7 @@
 <p>
  <img src="https://img.shields.io/badge/java-f16524?style=flat-square&logo=java&logoColor=white"/>&nbsp 
  <img src="https://img.shields.io/badge/python-28a4d8?style=flat-square&logo=python&logoColor=white"/>&nbsp 
- <img src="https://img.shields.io/badge/c++-6e43a3?style=flat-square&logo=c++&logoColor=white"/>&nbsp 
+ <img src="https://img.shields.io/badge/c++-6e43a3?style=flat-square&logo=C++&logoColor=white"/>&nbsp 
  <img src="https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp 
  <img src="https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp 
  <br>
