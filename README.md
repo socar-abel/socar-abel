@@ -12,6 +12,8 @@
 <p>
  <img src="https://img.shields.io/badge/Firebase-FFAC07?style=flat-square&logo=firebase&logoColor=white"/>&nbsp 
  <img src="https://img.shields.io/badge/GoogleMapAPI-60B4F9?style=flat-square&logo=GoogleMaps&logoColor=white"/>&nbsp 
+ <img src="https://img.shields.io/badge/AdobeXD-CC1BA2?style=flat-square&logo=AdobeXD&logoColor=white"/>&nbsp 
+ <img src="https://img.shields.io/badge/zeplin-EFE81C?style=flat-square&logo=zeplin&logoColor=white"/>&nbsp 
 </p>
 
 
