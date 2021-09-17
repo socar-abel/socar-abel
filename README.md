@@ -11,7 +11,7 @@
 
 <p>
  <img src="https://img.shields.io/badge/Firebase-FFAC07?style=flat-square&logo=firebase&logoColor=white"/>&nbsp 
- <img src="https://img.shields.io/badge/GoogleMap-60B4F9?style=flat-square&logo=GoogleMaps&logoColor=white"/>&nbsp 
+ <img src="https://img.shields.io/badge/GoogleMapAPI-60B4F9?style=flat-square&logo=GoogleMaps&logoColor=white"/>&nbsp 
 </p>
 
 
