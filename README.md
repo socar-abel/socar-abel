@@ -10,8 +10,8 @@
 </p>
 
 <p>
- <img src="https://img.shields.io/badge/Firebase-F7A02B?style=flat-square&logo=firebase&logoColor=white"/>&nbsp 
- <img src="https://img.shields.io/badge/GoogleMap-F7A02B?style=flat-square&logo=GoogleMaps&logoColor=white"/>&nbsp 
+ <img src="https://img.shields.io/badge/Firebase-F3BE75?style=flat-square&logo=firebase&logoColor=white"/>&nbsp 
+ <img src="https://img.shields.io/badge/GoogleMap-8FC5F2?style=flat-square&logo=GoogleMaps&logoColor=white"/>&nbsp 
 </p>
 
 
