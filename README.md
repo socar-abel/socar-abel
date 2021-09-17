@@ -1,5 +1,4 @@
 ## Kim Sang Woo • Android Developer
-앱 개발을 사랑합니다
 <h3>Tech Stack</h3>
 
 <p>
