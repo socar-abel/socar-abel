@@ -9,7 +9,6 @@
 <br>
  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>&nbsp 
  <img src="https://img.shields.io/badge/C++-F34B7D?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
- <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
 </p>
 
 Velog : https://velog.io/@heyksw
