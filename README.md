@@ -11,4 +11,4 @@
  <img src="https://img.shields.io/badge/C++-F34B7D?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 </p>
 
-Velog : https://velog.io/@heyksw
+블로그 : https://velog.io/@heyksw
