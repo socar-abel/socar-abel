@@ -1,4 +1,4 @@
-## Kim Sang Woo • Mobile App Developer
+## Kim Sang Woo • iOS Developer
 <h3>Tech Stack</h3>
 
 <p>
