@@ -9,4 +9,4 @@
    
 - 인하대학교 컴퓨터공학과 졸업 (2022)   
 - Software Maestro 13th   
-- Blog : https://velog.io/@heyksw
+- 개인 블로그 : https://velog.io/@heyksw
