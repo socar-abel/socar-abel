@@ -7,4 +7,4 @@
    
 - 인하대학교 컴퓨터공학과 졸업 (2022)   
 - SW 마에스트로 13기   
-- 개인 블로그 : https://velog.io/@heyksw
+- 블로그 : https://velog.io/@heyksw
